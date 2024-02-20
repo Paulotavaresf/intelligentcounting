@@ -1,4 +1,4 @@
-README - Algoritmo "Contagem Inteligente""
+<h1> README - Algoritmo "Contagem Inteligente"" </h1>
 Bem-vindo ao "Contagem Inteligente"! Este algoritmo realiza uma contagem a partir de um número inicial até um número final, considerando a inteligência de contar crescente ou decrescentemente, dependendo dos valores fornecidos.
 
 Como Funciona
